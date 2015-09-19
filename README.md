@@ -1,2 +1,6 @@
 # backward_clock
-confusing clock
+
+A confusing clock
+Where day is night
+Time is running backward
+
